@@ -13,5 +13,4 @@ For *Column,Row and Average* Integration methods. I have used two ways to perfor
 
 Both methods gives exactly same results. *2nd Method* is commented in the getSurface.m file. One can uncomment and verify the results using both above mentioned methods.
 
-Inline-style: 
-![alt text](https://github.com/nehay06/Computer-Vision-Shape-From-Shading-Photometric-stereo/blob/master/output/yaleB055.jpg "YaleB05 recovered 3D)
+![Image](./output/yaleB056.jpg?raw=true)
