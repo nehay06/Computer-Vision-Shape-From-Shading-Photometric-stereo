@@ -14,3 +14,6 @@ For *Column,Row and Average* Integration methods. I have used two ways to perfor
 Both methods gives exactly same results. *2nd Method* is commented in the getSurface.m file. One can uncomment and verify the results using both above mentioned methods.
 
 ![Image](./output/yaleB056.jpg?raw=true)
+![Image](./output/yaleB014.jpg?raw=true)
+![Image](./output/yaleB022.jpg?raw=true)
+![Image](./output/yaleB074.jpg?raw=true)
