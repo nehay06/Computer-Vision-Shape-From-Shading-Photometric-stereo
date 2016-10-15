@@ -10,4 +10,5 @@ Steps to execute the code
 For *Column,Row and Average* Integration methods. I have used two ways to perform the intergration. 
 - Cumsum method to perform intergration. This method does not require for loop.
 - Using the previous calculated values to determine the heightmap of current pixel. This is basically dynamic programming. 
+
 Both methods gives exactly same results. *2nd Method* is commented in the getSurface.m file. One can uncomment and verify the results using both above mentioned methods.
